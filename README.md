@@ -1,2 +1,3 @@
-# MyDataScience
-This repository contains my practices and experiments while learning data science. 
+# Coursera Capstone
+This repository contains the final capstone assignment of the Data Science Certification provided by IBM and Cousera.
+ 
